@@ -1,5 +1,9 @@
 # HEAD Freshening and Stored-Response Association
 
+**Update, 12 November 2026:** [Qualification and implementation update](addendum-2026-11-12.md).
+A local Bouine test reproduced validator-free HEAD freshening; it does not
+establish an RFC defect. The v1.0 report and release remain unchanged.
+
 Antun Jurkovikj | Report date: 28 October 2026 | Version 1.0
 
 [Read the report](report.md).
@@ -40,7 +44,7 @@ Sections 6 and 7.
 
 Copyright (c) 2026 Antun Jurkovikj.
 
-The original text of this README and the report is licensed under
+The original text of this README, the report, and the addendum is licensed under
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 See [LICENSE](LICENSE) for the full terms.
 
